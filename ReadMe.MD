@@ -9,6 +9,9 @@
 
 ### How does it works? (2*)
 
+![How SAML works](how-saml-works.png)
+
+
 ### Resources
 
 1* https://auth0.com/resources/ebooks/saml-authentication-explained
